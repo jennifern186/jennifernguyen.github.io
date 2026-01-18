@@ -4,7 +4,7 @@ As an Informatics student, I’m interested in how information systems managemen
 ### About Me
 - Pronouns: She/Her
 - Informatics Undergraduate at UW Seattle
-- Focus in PM
+- Focus: Project Management
 
 ### Education
 - Bachelor of Science: Informatics - University of Washington (Seattle)
