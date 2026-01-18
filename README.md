@@ -22,6 +22,12 @@ As an Informatics student, I’m interested in how information systems managemen
 Built an interactive web application that suggests personalized gift ideas based on user input. Designed and implemented a responsive using HTML, CSS, and JavaScript (React). 
 
 https://wrap-it-up-6d662.web.app/ 
+
+- **SafetyNet Portal** – Illegal Fishing Monitoring System
+
+Collaborated on designing a data-driven system to monitor illegal, unreported, and unregulated (IUU) fishing. Defined project objectives, user personas, and system requirements aligned with real-world stakeholders. Developed product backlogs, epics, and priorities supporting real-time monitoring and long-term data analysis.
+
+https://dev.azure.com/tamaralu/info%20380%20illegal%20fishing/_wiki/wikis/info-380-illegal-fishing.wiki/39/Executive-Summary
   
 ### Contact
 - Email: jennifervunguyen@hotmail.com
